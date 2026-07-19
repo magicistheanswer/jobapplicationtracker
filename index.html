@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Patrick's Job Tracker</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f7f7f8;
+    --card-bg: #ffffff;
+    --text: #1a1a1a;
+    --muted: #666;
+    --border: #e2e2e5;
+    --accent: #cc0000;
+    --tag-bg: #eef0f3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121212;
+      --card-bg: #1c1c1e;
+      --text: #f2f2f2;
+      --muted: #a0a0a5;
+      --border: #33333a;
+      --accent: #ff5c5c;
+      --tag-bg: #2a2a2e;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 1.25rem;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.45;
+  }
+  header {
+    max-width: 720px;
+    margin: 0 auto 1.5rem;
+  }
+  h1 {
+    font-size: 1.4rem;
+    margin: 0 0 0.25rem;
+  }
+  .subtitle {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+  .job-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.1rem;
+  }
+  .job-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 0.15rem;
+  }
+  .job-title a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .job-title a:hover {
+    text-decoration: underline;
+  }
+  .job-company {
+    color: var(--muted);
+    font-size: 0.95rem;
+    margin-bottom: 0.5rem;
+  }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 0.6rem;
+  }
+  .tag {
+    background: var(--tag-bg);
+    color: var(--muted);
+    font-size: 0.78rem;
+    padding: 0.2rem 0.55rem;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .tag.mode-remote { color: #1a7f37; }
+  .tag.mode-hybrid { color: #9a6700; }
+  .tag.mode-onsite { color: var(--accent); }
+  .fit-note {
+    font-size: 0.9rem;
+    color: var(--text);
+  }
+  .meta {
+    margin-top: 0.6rem;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 2rem 1rem;
+  }
+  footer {
+    max-width: 720px;
+    margin: 2rem auto 0;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Job Tracker — AEP / Digital Analytics / CDP roles</h1>
+  <div class="subtitle">Auto-updated daily scan for Patrick Hegnauer. Discovery only — nothing here has been applied to.</div>
+</header>
+<main id="jobs">
+  <div class="job-card">
+    <div class="job-title"><a href="https://careers.adobe.com/us/en/job/R169096/Senior-Solutions-Consultant-CXO-Customer-Experience-Orchestration" target="_blank" rel="noopener">Senior Solutions Consultant, CXO (Customer Experience Orchestration)</a></div>
+    <div class="job-company">Adobe</div>
+    <div class="tags">
+      <span class="tag">Zurich, Switzerland</span>
+      <span class="tag mode-hybrid">hybrid</span>
+      <span class="tag">Adobe Careers</span>
+    </div>
+    <div class="fit-note">Senior (8+ years) pre-sales/solution consulting role covering Adobe's CXO portfolio (AEP, Real-Time CDP, AJO, CJA) for Switzerland and Eastern Europe accounts — blends strategy with hands-on demo/workshop delivery, a good match for someone wanting to move toward strategic work without losing the technical component. Based in Zurich; likely requires some client-facing travel.</div>
+    <div class="meta">Found 2026-07-19</div>
+  </div>
+</main>
+<footer>
+  Generated automatically. Last run: 2026-07-19.
+</footer>
+</body>
+</html>
