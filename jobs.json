@@ -8,5 +8,35 @@
     "source": "Adobe Careers",
     "date_found": "2026-07-19",
     "fit_note": "Senior (8+ years) pre-sales/solution consulting role covering Adobe's CXO portfolio (AEP, Real-Time CDP, AJO, CJA) for Switzerland and Eastern Europe accounts — blends strategy with hands-on demo/workshop delivery, a good match for someone wanting to move toward strategic work without losing the technical component. Based in Zurich; likely requires some client-facing travel."
+  },
+  {
+    "title": "Product Specialist, Data and Customer Journey",
+    "company": "Adobe",
+    "location": "Zurich, Switzerland",
+    "work_mode": "remote",
+    "url": "https://careers.adobe.com/us/en/job/R157150/Product-Specialist-Data-and-Customer-Journey",
+    "source": "Adobe Careers",
+    "date_found": "2026-07-24",
+    "fit_note": "Adobe overlay/pre-sales role covering Real-Time CDP, AJO and Customer Journey Analytics for Swiss/DACH accounts, listed as remote out of Zurich — keeps a technical product focus while shifting toward customer-facing strategy. Caveat: this is a quota-influencing sales-specialist role rather than a pure architecture position, and Adobe's listed seniority level isn't explicit in the posting."
+  },
+  {
+    "title": "Technical Customer Engagement Manager | CDP Solution Architect (f|m|d) (80-100%)",
+    "company": "SMG Swiss Marketplace Group AG",
+    "location": "Zurich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://builtin.com/job/technical-customer-engagement-manager-cdp-solution-architect-fmd-80-100-zurich-hybrid-work",
+    "source": "Web",
+    "date_found": "2026-07-24",
+    "fit_note": "Senior CDP Solution Architect role owning CDP architecture, API integrations and data ingestion for a major Swiss marketplace group — a strong structural match for a 'CDP Architect' title with a real hands-on component, hybrid in Zurich. Caveat: platform is Bloomreach Engagement, not Adobe, so less direct reuse of AEP-specific expertise."
+  },
+  {
+    "title": "Adobe Campaign Solution Architect",
+    "company": "EPAM Systems",
+    "location": "Zurich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://www.epam.com/careers/job-listings/job.60292.adobe-campaign-solution-architect_zurich_switzerland",
+    "source": "Web",
+    "date_found": "2026-07-24",
+    "fit_note": "Consultancy-side Solution Architect role centered on Adobe Campaign, directly matching Patrick's current Adobe Campaign-to-AJO migration experience — real architecture ownership across client engagements, based in Zurich. Caveat: EPAM is a consulting firm, so hybrid arrangement and travel expectations are project-dependent."
   }
 ]
