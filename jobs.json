@@ -8,5 +8,25 @@
     "source": "Adobe Careers",
     "date_found": "2026-07-19",
     "fit_note": "Senior (8+ years) pre-sales/solution consulting role covering Adobe's CXO portfolio (AEP, Real-Time CDP, AJO, CJA) for Switzerland and Eastern Europe accounts — blends strategy with hands-on demo/workshop delivery, a good match for someone wanting to move toward strategic work without losing the technical component. Based in Zurich; likely requires some client-facing travel."
+  },
+  {
+    "title": "Adobe Campaign Solution Architect",
+    "company": "EPAM Systems",
+    "location": "Zurich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://www.epam.com/careers/job-listings/job.60292.adobe-campaign-solution-architect_zurich_switzerland",
+    "source": "Web",
+    "date_found": "2026-08-14",
+    "fit_note": "Solution Architect role in EPAM's Adobe practice, directly relevant to Patrick's Adobe Campaign background (which he's migrating away from at CSS to AJO) plus broader Adobe stack knowledge — client-facing architecture work rather than pure hands-on delivery. Zurich-based; EPAM's work model is flexible/hybrid but the exact onsite split depends on the client project."
+  },
+  {
+    "title": "Technical Customer Engagement Manager | CDP Solution Architect (f/m/d) (80-100%)",
+    "company": "SMG Swiss Marketplace Group",
+    "location": "Zurich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://builtin.com/job/technical-customer-engagement-manager-cdp-solution-architect-fmd-80-100-zurich-hybrid-work",
+    "source": "Web",
+    "date_found": "2026-08-14",
+    "fit_note": "Newly created CDP Solution Architect role owning the Customer Data Platform and marketing-tech stack for SMG's marketplaces (ImmoScout24, AutoScout24, etc.) — architecture/strategy remit with hands-on platform ownership, similar shape to Patrick's current AEP role. Caveat: the CDP here is Bloomreach Engagement, not Adobe RTCDP, so it's a platform switch rather than a like-for-like Adobe move; title also reads more \"manager\" than pure architect."
   }
 ]
