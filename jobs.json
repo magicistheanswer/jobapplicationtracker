@@ -8,7 +8,7 @@
     "source": "Web",
     "date_found": "2026-08-15",
     "fit_note": "Excellent match: leads design and architecture of Swisscom's Adobe Experience Platform stack (RT-CDP, AJO, CJA) and its integration with other Adobe/marketing systems and Big Data/eCommerce platforms — a senior, hands-on architect role with clear strategic ownership at a major Swiss telco, exactly the kind of move Patrick is looking for. Hybrid, based near Bern; works with a distributed team across Switzerland, Latvia and the Netherlands.",
-    "issue_number": null
+    "issue_number": 11
   },
   {
     "title": "AEP Enterprise Architect (EMEA)",
@@ -19,6 +19,17 @@
     "source": "Web",
     "date_found": "2026-08-15",
     "fit_note": "Enterprise Architect role owning AEP/RT-CDP/AJO/CJA architecture for client engagements at an Adobe Platinum partner (Blue Acorn iCi, part of Infosys Nova) — a strategic-plus-hands-on blend that matches what Patrick is looking for. Posted as part of an active EMEA expansion (UK, Ireland, Germany, Poland, Belgium confirmed as eligible); Switzerland was not explicitly listed among eligible countries in search results, so worth confirming directly before applying.",
-    "issue_number": null
+    "issue_number": 11
+  },
+  {
+    "title": "Senior Solutions Consultant, CXO (Customer Experience Orchestration)",
+    "company": "Adobe",
+    "location": "Zurich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://careers.adobe.com/us/en/job/R169096/Senior-Solutions-Consultant-CXO-Customer-Experience-Orchestration",
+    "source": "Web",
+    "date_found": "2026-08-23",
+    "fit_note": "Senior pre-sales Solutions Consultant role at Adobe itself covering Customer Experience Orchestration (Real-Time CDP, Adobe Journey Optimizer, Customer Journey Analytics) for enterprise accounts out of Zurich — pairs deep technical/architecture credibility with strategic customer-facing work, a good match for the move toward strategy without losing the hands-on component. Requires 8+ years in Solution Consulting or comparable pre-sales roles; exact onsite/remote split not confirmed in search results.",
+    "issue_number": 17
   }
 ]
