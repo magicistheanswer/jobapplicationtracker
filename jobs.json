@@ -1,5 +1,27 @@
 [
   {
+    "title": "Senior Associate – Marketing Technology Specialist",
+    "company": "PwC Switzerland",
+    "location": "Zürich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://jobs.pwc.ch/job-vacancies/senior-associate-marketing-technology-specialist/9d4353a0-46cd-4428-8251-95ab25c59500",
+    "source": "Web",
+    "date_found": "2026-09-08",
+    "fit_note": "In-house martech strategy role owning PwC Switzerland's marketing technology roadmap and leading modernisation of the marketing tech ecosystem, explicitly including migration to platforms like Adobe Experience Platform — 6-8+ years in marketing technology/digital platforms required, and the role also covers CRM/CMS/automation and data governance partnering with Data & Analytics. Caveat: this is a strategy/roadmap-owner role inside PwC's internal marketing org rather than a pure hands-on architect position, and scope is broader than just Adobe/CDP (also covers general martech stack) — worth confirming how much hands-on AEP work is actually involved versus vendor/roadmap oversight.",
+    "issue_number": 24
+  },
+  {
+    "title": "Senior Solutions Consultant, CXO (Customer Experience Orchestration)",
+    "company": "Adobe",
+    "location": "Zurich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://careers.adobe.com/us/en/job/R169096/Senior-Solutions-Consultant-CXO-Customer-Experience-Orchestration",
+    "source": "Web",
+    "date_found": "2026-09-08",
+    "fit_note": "Senior pre-sales Solutions Consultant role at Adobe itself covering Customer Experience Orchestration (Real-Time CDP, Adobe Journey Optimizer, Customer Journey Analytics) for enterprise accounts out of Zurich — pairs deep technical/architecture credibility with strategic customer-facing work, matching the move toward strategy without losing the hands-on component. Requires 8+ years in Solution Consulting or comparable pre-sales roles. Note: this same requisition (R169096) has been tracked and auto-expired from this list twice before — it appears to be a long-standing/evergreen Adobe opening that stays posted for months, so it keeps cycling back into the 14-day tracker window.",
+    "issue_number": 23
+  },
+  {
     "title": "Solution Architect - Adobe Experience Cloud",
     "company": "Cognizant Netcentric",
     "location": "Zurich, Switzerland",
