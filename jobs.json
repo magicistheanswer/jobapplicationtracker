@@ -1,5 +1,16 @@
 [
   {
+    "title": "AEP Multi-Solution Architect",
+    "company": "TechBiz Global GmbH",
+    "location": "Remote (any country)",
+    "work_mode": "remote",
+    "url": "https://himalayas.app/companies/techbiz-global/jobs/aep-multi-solution-architect-6126321756",
+    "source": "Web",
+    "date_found": "2026-09-14",
+    "fit_note": "End-to-end architecture role spanning the full AEP stack (RT-CDP, AJO, CJA, Target) — designing high-level/low-level architecture, integration patterns with CRM/OCS/CMS/loyalty systems, and governance/compliance, while acting as technical authority for implementation teams. Strong match for the strategic-but-still-hands-on architect profile Patrick wants, and fully remote so location is a non-issue. Caveat: posted via TechBiz Global, an IT recruitment agency, for an undisclosed end client — worth clarifying who the actual employer is before applying.",
+    "issue_number": 26
+  },
+  {
     "title": "Adobe Technology Consultant & Digital Practice Lead",
     "company": "EPAM Systems (Switzerland) GmbH",
     "location": "Zürich, Switzerland",
@@ -75,16 +86,5 @@
     "date_found": "2026-08-31",
     "fit_note": "Architect-level Customer Data Platform role (Bloomreach Engagement CDP + marketing tech ecosystem) on the Customer Engagement team, hybrid in Zurich — matches Patrick's location and CDP-architecture skill set. Caveat: stated minimum experience (3+ years as CDP solution architect/consultant) is well below Patrick's 9+ years, suggesting the role may be scoped more mid-level despite the \"Architect\" title, and it's Bloomreach-based rather than Adobe-based.",
     "issue_number": 19
-  },
-  {
-    "title": "Adobe Campaign Solution Architect",
-    "company": "EPAM Systems",
-    "location": "Zurich, Switzerland",
-    "work_mode": "hybrid",
-    "url": "https://www.epam.com/careers/job-listings/job.60292.adobe-campaign-solution-architect_zurich_switzerland",
-    "source": "Web",
-    "date_found": "2026-08-30",
-    "fit_note": "Solution Architect role in EPAM's Adobe practice in Zurich, providing technical guidance and architecture across pre-sales, delivery and client implementations — matches the architect-level, still-hands-on profile Patrick wants. Caveat: focused on Adobe Campaign rather than the AEP/RT-CDP/CJA/AJO stack Patrick works in day-to-day (his own company is migrating away from Campaign to AJO), and the exact onsite/remote split could not be confirmed from search results.",
-    "issue_number": 18
   }
 ]
