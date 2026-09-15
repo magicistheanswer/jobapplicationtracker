@@ -53,38 +53,5 @@
     "date_found": "2026-09-01",
     "fit_note": "Architect-level role at Netcentric (Cognizant's Adobe Platinum Solution Partner, HQ'd in Zurich) covering Adobe Experience Platform/Adobe Experience Cloud solution design — a technical, still hands-on architecture role at 5-7+ years seniority, matching Patrick's desire to stay technical while moving up. Caveat: exact remote/hybrid split for this specific requisition wasn't confirmed from search results (Netcentric describes agile remote-working with a Zurich studio), and scope leans more Adobe Experience Cloud/AEM-adjacent than pure AEP/CJA/AJO — worth checking the listing directly for stack details.",
     "issue_number": 22
-  },
-  {
-    "title": "Product Specialist, Data and Customer Journey",
-    "company": "Adobe",
-    "location": "Zurich, Switzerland",
-    "work_mode": "remote",
-    "url": "https://careers.adobe.com/us/en/job/R157150/Product-Specialist-Data-and-Customer-Journey",
-    "source": "Web",
-    "date_found": "2026-08-31",
-    "fit_note": "Senior pre-sales product specialist role at Adobe itself, covering the Data and Customer Journey portfolio (Real-Time CDP, Customer Journey Analytics, Adobe Journey Optimizer) — same strategic-but-still-technical profile as the CXO Solutions Consultant role already tracked, based out of Zurich (listed as \"Remote, Zurich, Switzerland\"). Caveat: exact seniority bar and hybrid/remote split not fully confirmed from search results, but comparable Adobe \"Product Specialist\" roles require 5+ years of enterprise software pre-sales experience.",
-    "issue_number": 21
-  },
-  {
-    "title": "AEP Enterprise Architect (EMEA)",
-    "company": "Blue Acorn iCi",
-    "location": "Remote (EMEA — exact country unclear)",
-    "work_mode": "remote",
-    "url": "https://blueacornici.applytojob.com/apply/FDkRSJHL92/AEP-Enterprise-Architect",
-    "source": "Web",
-    "date_found": "2026-08-31",
-    "fit_note": "Strong skills/seniority match — enterprise-wide Adobe Experience Platform architecture and strategy role (8+ years enterprise architecture experience) at an Adobe consulting partner, blending strategic and hands-on technical leadership. Caveat: search results gave conflicting signals on remote eligibility — one source ties the EMEA posting to London, another labels a similarly-named posting \"United States Remote\" with US-work-authorization language; could not confirm whether this specific requisition is open to Switzerland-based remote applicants.",
-    "issue_number": 20
-  },
-  {
-    "title": "CDP Solution Architect / Technical Customer Engagement Manager",
-    "company": "SMG Swiss Marketplace Group",
-    "location": "Zürich, Switzerland",
-    "work_mode": "hybrid",
-    "url": "https://builtin.com/job/technical-customer-engagement-manager-cdp-solution-architect-fmd-80-100-zurich-hybrid-work",
-    "source": "Web",
-    "date_found": "2026-08-31",
-    "fit_note": "Architect-level Customer Data Platform role (Bloomreach Engagement CDP + marketing tech ecosystem) on the Customer Engagement team, hybrid in Zurich — matches Patrick's location and CDP-architecture skill set. Caveat: stated minimum experience (3+ years as CDP solution architect/consultant) is well below Patrick's 9+ years, suggesting the role may be scoped more mid-level despite the \"Architect\" title, and it's Bloomreach-based rather than Adobe-based.",
-    "issue_number": 19
   }
 ]
