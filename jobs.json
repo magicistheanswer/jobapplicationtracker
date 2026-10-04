@@ -31,27 +31,5 @@
     "date_found": "2026-09-24",
     "fit_note": "Senior/architect-level role focused specifically on Adobe AEP data architecture — defining XDM schemas and identity strategy, overseeing batch/streaming/API ingestion pipelines, and setting data quality, governance, retention, privacy, and consent management frameworks. Strong technical-architecture match for Patrick's AEP/consent-management background, and open to candidates from any country so Switzerland-based remote work is viable. Caveat: posted via TechBiz Global, an IT recruitment agency, for an undisclosed end client (the same agency already has another open req, \"AEP Multi-Solution Architect\", tracked as issue #26) — worth clarifying the actual employer and whether these are the same or different engagements before applying.",
     "issue_number": 31
-  },
-  {
-    "title": "Senior Expert Solutions Consultant CJM",
-    "company": "Adobe",
-    "location": "Zurich, Switzerland",
-    "work_mode": "hybrid",
-    "url": "https://careers.adobe.com/us/en/job/R143263/Senior-Expert-Solutions-Consultant-CJM",
-    "source": "Adobe Careers",
-    "date_found": "2026-09-19",
-    "fit_note": "Senior pre-sales Solution Consultant role for Adobe's Customer Journey Management portfolio (Adobe Journey Optimizer, Customer Journey Analytics) based in Zurich — pairs technical architecture/demo credibility with strategic customer-facing work, closely matching Patrick's AJO/CJA day-to-day and the desired shift toward strategy without losing the hands-on component. Caveat: this exact requisition (R143263) was tracked and auto-expired once before (issue #7, August 2026) — it's a long-standing Adobe opening that keeps resurfacing.",
-    "issue_number": 28
-  },
-  {
-    "title": "Product Specialist, Data and Customer Journey",
-    "company": "Adobe",
-    "location": "Remote, Zurich, Switzerland",
-    "work_mode": "remote",
-    "url": "https://careers.adobe.com/us/en/job/R157150/Product-Specialist-Data-and-Customer-Journey",
-    "source": "Adobe Careers",
-    "date_found": "2026-09-19",
-    "fit_note": "Senior pre-sales product specialist role at Adobe covering the Data and Customer Journey portfolio (Real-Time CDP, Customer Journey Analytics, Adobe Journey Optimizer), listed as remote out of Zurich — same strategic-but-still-technical profile as the CXO Solutions Consultant role already tracked (issue #23). Caveat: this requisition (R157150) was tracked and auto-expired before (issues #2 and #21) — a recurring/evergreen Adobe opening; exact seniority bar not fully confirmed from search results.",
-    "issue_number": 29
   }
 ]
