@@ -1,5 +1,16 @@
 [
   {
+    "title": "Senior Adobe Martech Strategy & Architecture Lead (AEP, AJO, CJA)",
+    "company": "Undisclosed employer (via Dice)",
+    "location": "Remote, no travel (US-listed; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://www.dice.com/job-detail/d641fd33-6eee-4826-9efb-93e3f9d1ed39",
+    "source": "Web",
+    "date_found": "2026-11-05",
+    "fit_note": "Strategy + architecture lead across AEP, AJO and CJA, asks 10+ yrs in product strategy/enterprise architecture/martech leadership; fits his move toward strategic-but-technical. Caveat: W2 contract-style US posting; page could not be fetched, so employer, date, open status and Swiss eligibility are unverified.",
+    "issue_number": 48
+  },
+  {
     "title": "(Senior) Enterprise Architect - Technical Presales",
     "company": "Adobe",
     "location": "Central Europe region, Zurich-based per Adobe listing (Jobgether lists it as full remote)",
@@ -119,27 +130,5 @@
     "date_found": "2026-10-22",
     "fit_note": "Hybrid CDP solution architect role in Zurich — location fits perfectly. Caveat: Bloomreach, not Adobe, and customer-facing; page could not be fetched, so posting date/open status not verified.",
     "issue_number": 38
-  },
-  {
-    "title": "Customer Journey Analytics (CJA) Lead",
-    "company": "Jobgether (partner company)",
-    "location": "Remote (eligibility from Switzerland unverified)",
-    "work_mode": "remote",
-    "url": "https://jobs.lever.co/jobgether/2a53bfad-9dde-45f2-861e-86184ca49bbc",
-    "source": "Web",
-    "date_found": "2026-10-21",
-    "fit_note": "Hands-on technical leadership of an enterprise CJA/AEP implementation (identity, ingestion) — matches the architect-with-hands-on profile. Caveat: posted via Jobgether for an unnamed partner; open status not verified.",
-    "issue_number": 35
-  },
-  {
-    "title": "Lead MarTech Product Strategist, CJA",
-    "company": "Adswerve",
-    "location": "Remote (US states listed; eligibility from Switzerland unverified)",
-    "work_mode": "remote",
-    "url": "https://job-boards.greenhouse.io/adswerveinc/jobs/5180567007",
-    "source": "Web",
-    "date_found": "2026-10-21",
-    "fit_note": "Strategic lead role across CJA, AEP, AJO and CDP incl. roadmaps and mentoring. Caveat: US-oriented; strategy-heavy, check hands-on share; open status not verified.",
-    "issue_number": 36
   }
 ]
