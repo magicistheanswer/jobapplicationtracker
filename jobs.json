@@ -1,5 +1,38 @@
 [
   {
+    "title": "Lead CJA/AEP Platform Architect",
+    "company": "Undisclosed employer (via Jobgether)",
+    "location": "Remote, Switzerland-listed (another aggregator lists UAE)",
+    "work_mode": "remote",
+    "url": "https://remotestack.in/jobs/lead-cja-aep-platform-architect-jobgether-6acdb2d1-6f8f-4b6d-a6a8-ae11589fe932",
+    "source": "Web",
+    "date_found": "2026-11-13",
+    "fit_note": "Lead architect role advising clients on AEP architecture, capabilities and best practices, with CJA in scope (5+ yrs AEP enterprise architecture and implementation); strategy plus hands-on, listed remote from Switzerland. Caveat: aggregator listing, employer hidden; location conflicts across boards and page could not be fetched, so open status and posting date are unverified.",
+    "issue_number": 61
+  },
+  {
+    "title": "Adobe Experience Platform Technical Lead",
+    "company": "SHIFT Paradigm",
+    "location": "Remote (US-listed; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://ats.rippling.com/shift/jobs/48eee7f0-b6df-4b25-81a7-13f6cbfa2d93",
+    "source": "Web",
+    "date_found": "2026-11-13",
+    "fit_note": "Senior AEP lead running solution design sessions and setting implementation standards across RT-CDP audiences, identity graphs and activation; architecture plus hands-on at a strategy-led consultancy (USD 140-160k). Caveat: US-remote; page could not be fetched, so open status and posting date are unverified.",
+    "issue_number": 62
+  },
+  {
+    "title": "CJA Architect (Remote)",
+    "company": "Undisclosed employer (via Dice)",
+    "location": "Remote (US-listed; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://www.dice.com/job-detail/0c7d0f69-359a-4652-9e59-abd92974196a",
+    "source": "Web",
+    "date_found": "2026-11-13",
+    "fit_note": "Owns analytics architecture for an AEP/AJO integration program: linking AEP event streams and AJO journey data into CJA, cross-channel attribution, AA-to-CJA migration (8-12+ yrs); close match to his CJA/AJO work. Caveat: 12-month US contract; page could not be fetched, so employer, open status and Swiss eligibility are unverified.",
+    "issue_number": 63
+  },
+  {
     "title": "Adobe Multi-Solution Architect",
     "company": "Cognizant",
     "location": "Remote (North America-listed; eligibility from Switzerland unverified)",
@@ -174,16 +207,5 @@
     "date_found": "2026-11-03",
     "fit_note": "Architect-level Real-Time CDP role (unified profiles, identity resolution, AEM/Analytics/AJO integrations), 8-15+ yrs IT experience. Caveat: US-oriented (USD salary); page could not be fetched, so open status and Swiss eligibility not verified.",
     "issue_number": 46
-  },
-  {
-    "title": "MarTech Lead (Adobe Customer Journey Analytics)",
-    "company": "Undisclosed employer (via Dice)",
-    "location": "100% remote (US-listed; eligibility from Switzerland unverified)",
-    "work_mode": "remote",
-    "url": "https://www.dice.com/job-detail/b5d52855-72de-4fb9-bd2d-5bacbb8926c5",
-    "source": "Web",
-    "date_found": "2026-10-29",
-    "fit_note": "Lead-level CJA platform role (10+ yrs digital analytics/martech, 5+ yrs hands-on CJA), matching his CJA ownership. Caveat: US-oriented (USD salary listed); page could not be fetched, so employer, posting date, open status and Swiss eligibility not verified.",
-    "issue_number": 44
   }
 ]
