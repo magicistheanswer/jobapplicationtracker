@@ -1,5 +1,27 @@
 [
   {
+    "title": "Senior Enterprise Architect - Professional Services",
+    "company": "Adobe",
+    "location": "Switzerland (search snippets point to Basel; exact office unverified)",
+    "work_mode": "hybrid",
+    "url": "https://refresh.cv/jobs/adobe/a9e307d9-15fd-445b-8aca-b3695cad9dca",
+    "source": "Adobe Careers",
+    "date_found": "2026-11-15",
+    "fit_note": "Adobe-side senior architect in Professional Services, guiding Experience Cloud architecture through customer transformations and leading architecture governance across delivery teams; strategic but still technical. Caveat: aggregator page could not be fetched, so office (Basel is about 1h from Lucerne), work mode, posting date and open status are unverified; may lean AEM/content rather than AEP.",
+    "issue_number": 67
+  },
+  {
+    "title": "Data & MarTech Architect - Contract/Freelance (Adobe Experience Platform / RTCDP)",
+    "company": "CourtAvenue (GTX Solutions)",
+    "location": "Remote (US-listed, Dallas; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://www.workingnomads.com/jobs/data-martech-architect-adobe-experience-platform-rtcdp-courtavenue",
+    "source": "Web",
+    "date_found": "2026-11-15",
+    "fit_note": "Technical lead on a B2B migration from a legacy automation platform to AJO and AEP (RT-CDP merge policies, identity namespaces, consent, destinations); mirrors his Campaign-to-AJO migration. Caveat: freelance contract (about USD 125-140/h, one listing says ~15 h/week for 6 months), US-oriented; page could not be fetched, so open status and posting date are unverified.",
+    "issue_number": 68
+  },
+  {
     "title": "Adobe Multi-Solution Architect, AEP/CDP (US)",
     "company": "Code and Theory",
     "location": "Remote (US-listed, New York-area posting; eligibility from Switzerland unverified)",
