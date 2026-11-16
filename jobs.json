@@ -1,5 +1,49 @@
 [
   {
+    "title": "Marketing Technology Lead",
+    "company": "PwC Switzerland (Internal Firm Services)",
+    "location": "Zurich, Switzerland (100%)",
+    "work_mode": "hybrid",
+    "url": "https://jobs.pwc.ch/job-vacancies/marketing-technology-lead/9d4353a0-46cd-4428-8251-95ab25c59500",
+    "source": "Web",
+    "date_found": "2026-11-16",
+    "fit_note": "In-house role owning PwC Switzerland's martech strategy and roadmap (FY27), re-architecting the marketing data foundation with IT and leading a move toward Adobe Experience Platform, while still running the stack hands-on; strategic-but-technical, Zurich. Caveat: one listing with the same ID is titled 'Senior Associate – Marketing Technology Specialist', so seniority may be lower than 'Lead'; 6-8+ yrs asked; hybrid terms, posting date and open status unverified (page could not be fetched).",
+    "issue_number": 69
+  },
+  {
+    "title": "Senior CDP Solutions Architect",
+    "company": "Merkle (dentsu)",
+    "location": "Remote (US-listed, Maryland; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://builtin.com/job/senior-solutions-architect/6788946",
+    "source": "Web",
+    "date_found": "2026-11-16",
+    "fit_note": "Senior architect reporting to the Sr. Director of AEP Architecture, designing end-to-end AEP/RT-CDP, AJO and Target solutions (ingestion, identity resolution, activation) at a large Adobe partner (USD 136-220k); architecture plus hands-on. Caveat: US-remote, also covers non-Adobe CDPs; recently reposted per Built In, but page could not be fetched, so open status is unverified.",
+    "issue_number": 70
+  },
+  {
+    "title": "100% Remote - MarTech Lead (Adobe Customer Journey Analytics)",
+    "company": "Undisclosed employer (via Dice)",
+    "location": "Remote (US-listed; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://www.dice.com/job-detail/b5d52855-72de-4fb9-bd2d-5bacbb8926c5",
+    "source": "Web",
+    "date_found": "2026-11-16",
+    "fit_note": "Lead and CJA subject-matter expert owning CJA as the technical platform: journey measurement and attribution use cases, schemas, segments and data views (10+ yrs, 5+ yrs hands-on CJA); matches his CJA ownership. Caveat: full-time US role at USD 120-130k (below his likely level), employer hidden; page could not be fetched, so open status is unverified.",
+    "issue_number": 71
+  },
+  {
+    "title": "Lead - MarTech Measurement Platforms",
+    "company": "Undisclosed employer (via Dice)",
+    "location": "Remote (US-listed; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://www.dice.com/job-detail/cdc666db-4a8e-4a43-bf7f-adbd2df21dfc",
+    "source": "Web",
+    "date_found": "2026-11-16",
+    "fit_note": "Lead platform owner and SME for CJA plus media-mix-modeling and content-performance tools; ownership-level role mixing platform strategy with hands-on CJA. Caveat: US full-time, employer hidden, scope reaches beyond Adobe; page could not be fetched, so details and open status are unverified.",
+    "issue_number": 72
+  },
+  {
     "title": "Senior Enterprise Architect - Professional Services",
     "company": "Adobe",
     "location": "Switzerland (search snippets point to Basel; exact office unverified)",
