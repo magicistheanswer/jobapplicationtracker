@@ -1,5 +1,16 @@
 [
   {
+    "title": "Data Architect (Adobe Campaign Classic to Adobe Journey Optimizer)",
+    "company": "Allshore Talent",
+    "location": "Remote, EMEA only (Central Europe preferred)",
+    "work_mode": "remote",
+    "url": "https://freehire.me/jobs/data-architect-adobe-campaign-classic-to-adobe-journey-optimizer-emea-only-allshore-talent-dunawxew",
+    "source": "Web",
+    "date_found": "2026-11-18",
+    "fit_note": "Data architect role for an Adobe Campaign Classic to AJO migration, remote anywhere in EMEA with Central Europe preferred; mirrors his own Campaign-to-AJO migration at CSS and works from Lucerne. Caveat: 1-3 year contract via a staffing firm with occasional travel; one listing mentions US Central Time collaboration hours; page could not be fetched, so seniority, open status and posting date are unverified.",
+    "issue_number": 75
+  },
+  {
     "title": "Martech Architect Lead (Location Flexible)",
     "company": "RSM US LLP",
     "location": "US, location flexible (Chicago, Dallas, Denver, Edison, Minneapolis, New York, Philadelphia, Seattle; eligibility from Switzerland unverified)",
@@ -306,27 +317,5 @@
     "date_found": "2026-11-04",
     "fit_note": "Adobe-side architect role mixing technical architecture and customer-facing strategy (Experience Cloud/AEP), in the Zurich area; matches his wish to stay technical while going more strategic. Caveat: presales-heavy; pages could not be fetched, so open status, posting date and exact work mode are unverified.",
     "issue_number": 47
-  },
-  {
-    "title": "Adobe Experience Platform Architect (AEP)",
-    "company": "Merkle Schweiz",
-    "location": "Switzerland (remote listing; hybrid details unverified)",
-    "work_mode": "remote",
-    "url": "https://findroles.com/jobs/2784200162-adobe-experience-platform-architect-aep",
-    "source": "Web",
-    "date_found": "2026-11-03",
-    "fit_note": "Architect role covering RT-CDP, AJO and CJA architecture plus batch/streaming ingestion; requires 5+ yrs AEP, closely matching his stack and a Swiss base. Caveat: aggregator page could not be fetched; open status, posting date and on-site expectations not verified.",
-    "issue_number": 45
-  },
-  {
-    "title": "AEP/CDP Architect",
-    "company": "Bounteous",
-    "location": "Remote (US/UK-listed; eligibility from Switzerland unverified)",
-    "work_mode": "remote",
-    "url": "https://www.purpose.jobs/discover/companies/bounteous/jobs/89258921-aep-cdp-architect",
-    "source": "Web",
-    "date_found": "2026-11-03",
-    "fit_note": "Architect-level Real-Time CDP role (unified profiles, identity resolution, AEM/Analytics/AJO integrations), 8-15+ yrs IT experience. Caveat: US-oriented (USD salary); page could not be fetched, so open status and Swiss eligibility not verified.",
-    "issue_number": 46
   }
 ]
