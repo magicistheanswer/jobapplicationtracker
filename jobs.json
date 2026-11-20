@@ -1,5 +1,49 @@
 [
   {
+    "title": "Multi-Solution Architect (Adobe Analytics to Customer Journey Analytics) – EMEA only",
+    "company": "Allshore Talent",
+    "location": "Remote, EMEA only",
+    "work_mode": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/allshore-talent/multi-solution-architect-adobe-analytics-to-customer-journey-analytics-emea-only-any-272175",
+    "source": "Web",
+    "date_found": "2026-11-20",
+    "fit_note": "End-to-end architecture lead across Adobe Experience Cloud with the focus on Adobe Analytics/CJA, designing cross-solution architectures spanning AA, CJA and AEP and running client workshops; German, French or Italian highly valued, so a strong match for his AA-to-CJA and AEP background, workable from Lucerne. Caveat: freelance/contract via a staffing firm (per remotely.de); page could not be fetched, so seniority, posting date and open status are unverified.",
+    "issue_number": 76
+  },
+  {
+    "title": "Data Architect (Adobe Analytics to Customer Journey Analytics) – EMEA only",
+    "company": "Allshore Talent",
+    "location": "Remote, EMEA only (Central Europe preferred)",
+    "work_mode": "remote",
+    "url": "https://www.arbeitnow.com/jobs/companies/allshore-talent/data-architect-adobe-analytics-to-customer-journey-analytics-emea-only-any-159836",
+    "source": "Web",
+    "date_found": "2026-11-20",
+    "fit_note": "Hands-on architect for an AA-to-CJA modernisation: assesses the current analytics and data-collection setup, defines the AEP/CJA target architecture (connections, data views, stitching) and guides implementation; architecture plus build, remote from Central Europe. Caveat: staffing-firm contract with occasional travel; a Remotive version mentions US/Canada clients and Central Time hours; same engagement family as the Allshore CC-to-AJO role already listed; page could not be fetched, so open status and posting date are unverified.",
+    "issue_number": 77
+  },
+  {
+    "title": "Sr Adobe Data Platform Engineer",
+    "company": "Experis (client undisclosed)",
+    "location": "Zurich, Switzerland",
+    "work_mode": "onsite",
+    "url": "https://jobscout24.ch/de/job/adobe-data-platform-engineer/115945232",
+    "source": "Web",
+    "date_found": "2026-11-20",
+    "fit_note": "Zurich contract role producing AEP blueprints and leading a technical proof of concept with a team of engineers for AEP, CJA and AJO adoption, working alongside integration and data architects; architecture plus hands-on near home. Caveat: 6-month contract (extension possible), 'engineer' title, work mode not stated (the related Experis listing already tracked is 100% onsite) and likely the same client project; page could not be fetched, so posting date and open status are unverified.",
+    "issue_number": 78
+  },
+  {
+    "title": "Principal Adobe Architect - RTCDP, AEP",
+    "company": "Bounteous",
+    "location": "Remote (US-listed; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://jobs.lever.co/bounteous/5f8478ba-eb35-437f-807c-bd1e93c033c5",
+    "source": "Web",
+    "date_found": "2026-11-20",
+    "fit_note": "Principal-level Adobe architect for RT-CDP and AEP at a large Adobe partner; principal seniority with architecture leadership plus hands-on platform work, matching his target. Caveat: listed remote in the United States, likely needing US work authorization; page could not be fetched, so scope, posting date and open status are unverified.",
+    "issue_number": 79
+  },
+  {
     "title": "Data Architect (Adobe Campaign Classic to Adobe Journey Optimizer)",
     "company": "Allshore Talent",
     "location": "Remote, EMEA only (Central Europe preferred)",
@@ -295,16 +339,5 @@
     "date_found": "2026-11-07",
     "fit_note": "Senior role leading enterprise Adobe Analytics-to-CJA modernization; strong match for his CJA/Analytics background. Caveat: page could not be fetched, so employer, contract terms, posting date and open status are unverified.",
     "issue_number": 50
-  },
-  {
-    "title": "Senior Adobe Martech Strategy & Architecture Lead (AEP, AJO, CJA)",
-    "company": "Undisclosed employer (via Dice)",
-    "location": "Remote, no travel (US-listed; eligibility from Switzerland unverified)",
-    "work_mode": "remote",
-    "url": "https://www.dice.com/job-detail/d641fd33-6eee-4826-9efb-93e3f9d1ed39",
-    "source": "Web",
-    "date_found": "2026-11-05",
-    "fit_note": "Strategy + architecture lead across AEP, AJO and CJA, asks 10+ yrs in product strategy/enterprise architecture/martech leadership; fits his move toward strategic-but-technical. Caveat: W2 contract-style US posting; page could not be fetched, so employer, date, open status and Swiss eligibility are unverified.",
-    "issue_number": 48
   }
 ]
