@@ -1,5 +1,38 @@
 [
   {
+    "title": "Enterprise Architect (Adobe Practise)",
+    "company": "Exadel",
+    "location": "Sofia, Bulgaria-listed, supporting a customer team across EMEA (remote option per one aggregator; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://themuse.com/jobs/exadel/enterprise-architect-adobe-practise",
+    "source": "Web",
+    "date_found": "2026-11-22",
+    "fit_note": "MarTech enterprise architect for a large EMEA customer, requiring hands-on Adobe Experience Platform and Journey Optimizer experience and shaping the customer's 'Northstar' target architecture and operational runbooks; architecture plus hands-on, matching his AEP/AJO ownership. Caveat: consultancy role listed in Sofia; remote vs. office terms, posting date and open status unverified (page could not be fetched).",
+    "issue_number": 80
+  },
+  {
+    "title": "AEP Enterprise Architect (Remote from Austria)",
+    "company": "Undisclosed employer (via Jobgether)",
+    "location": "Remote, Austria (eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://www.wearedevelopers.com/en/jobs/ext/5582170/aep-enterprise-architect-remote-from-austria",
+    "source": "Web",
+    "date_found": "2026-11-22",
+    "fit_note": "Senior, permanent full-time role leading enterprise-wide digital marketing technology architecture on Adobe Experience Platform, fully remote in the DACH region; strong match for his AEP architect target. Caveat: posted by Jobgether for a hidden partner company and tied to Austria (sister listings exist for UK and Spain), so Swiss residency may not qualify; page could not be fetched, so details and open status are unverified.",
+    "issue_number": 81
+  },
+  {
+    "title": "Senior CJA Consultant (Adobe Analytics to Customer Journey Analytics) – EMEA only",
+    "company": "Allshore Talent",
+    "location": "Remote, EMEA only",
+    "work_mode": "remote",
+    "url": "https://remotive.com/remote/jobs/all-others/senior-cja-consultant-6631669",
+    "source": "Web",
+    "date_found": "2026-11-22",
+    "fit_note": "Customer-facing senior consultant on AA-to-CJA migrations: current-state Adobe Analytics assessment, component rationalisation and migration plan, KPI mapping into CJA; German, French or Italian highly valued. Caveat: freelance/contract via a staffing firm, more consultant/hands-on than architect (sister architect roles from the same engagement already listed); posting date and open status unverified.",
+    "issue_number": 82
+  },
+  {
     "title": "Multi-Solution Architect (Adobe Analytics to Customer Journey Analytics) – EMEA only",
     "company": "Allshore Talent",
     "location": "Remote, EMEA only",
@@ -317,27 +350,5 @@
     "date_found": "2026-11-08",
     "fit_note": "Lead strategist on enterprise Adobe projects (CJA, AEP, AJO) still needing hands-on CJA/XDM/identity work; matches strategic-but-technical goal. Caveat: US-oriented; posting date varies across boards and page could not be fetched, so open status is unverified.",
     "issue_number": 52
-  },
-  {
-    "title": "Senior Principal Adobe Real-Time CDP Architect",
-    "company": "Slalom",
-    "location": "Not shown in search snippet (location and remote eligibility unverified)",
-    "work_mode": "hybrid",
-    "url": "https://jobs.slalom.com/de_DE/careersmarketplace/JobDetail?jobId=2099",
-    "source": "Web",
-    "date_found": "2026-11-07",
-    "fit_note": "Leads enterprise RT-CDP strategy and implementation, advises senior client stakeholders and mentors consultants; strategy plus architecture, close to his target. Caveat: page could not be fetched, so location, work mode, posting date and open status are unverified.",
-    "issue_number": 49
-  },
-  {
-    "title": "CJA Product Modernization Architect (100% Remote)",
-    "company": "Allshore Talent",
-    "location": "Remote (location/eligibility from Switzerland unverified)",
-    "work_mode": "remote",
-    "url": "https://allshoretalent.recruitee.com/o/cja-product-modernization-architect-100-remote",
-    "source": "Web",
-    "date_found": "2026-11-07",
-    "fit_note": "Senior role leading enterprise Adobe Analytics-to-CJA modernization; strong match for his CJA/Analytics background. Caveat: page could not be fetched, so employer, contract terms, posting date and open status are unverified.",
-    "issue_number": 50
   }
 ]
