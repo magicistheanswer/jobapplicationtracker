@@ -1,5 +1,27 @@
 [
   {
+    "title": "AEP Enterprise Architect (EMEA)",
+    "company": "Blue Acorn iCi",
+    "location": "Remote, United Kingdom (London-based team; eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://builtin.com/job/aep-enterprise-architect-emea/7628688",
+    "source": "Web",
+    "date_found": "2026-11-23",
+    "fit_note": "Senior architect leading enterprise digital-marketing technical engagements on Adobe Experience Platform for EMEA clients and building enterprise architecture models, at a large Adobe partner; architecture plus hands-on delivery. Caveat: UK-listed (likely needs UK right to work), at least 50% travel, one aggregator shows ~EUR 100k; possibly the hidden employer behind the Jobgether Austria listing already tracked; reposted ~3 weeks ago per Built In, but page could not be fetched, so open status is unverified.",
+    "issue_number": 83
+  },
+  {
+    "title": "Customer Success Manager (Adobe Experience Cloud)",
+    "company": "Adobe",
+    "location": "Zurich, Switzerland",
+    "work_mode": "hybrid",
+    "url": "https://builtin.com/job/customer-success-manager/3813440",
+    "source": "Web",
+    "date_found": "2026-11-23",
+    "fit_note": "Adobe-side, senior-level post-sales role in the Experience Cloud team in Zurich: strategic planning with enterprise customers and driving product adoption; his AEP/CJA/AJO ownership would be a strong credential, and it is hybrid near home. Caveat: more account/adoption-focused than architect, so the hands-on component is limited; listing ID looks older (possibly reposted), and the page could not be fetched, so posting date and open status are unverified.",
+    "issue_number": 84
+  },
+  {
     "title": "Enterprise Architect (Adobe Practise)",
     "company": "Exadel",
     "location": "Sofia, Bulgaria-listed, supporting a customer team across EMEA (remote option per one aggregator; eligibility from Switzerland unverified)",
@@ -328,27 +350,5 @@
     "date_found": "2026-11-10",
     "fit_note": "Zurich role writing AEP blueprints and leading a CJA/AJO proof of concept; architecture plus hands-on. Caveat: 6-month contract (extension possible), 'engineer' title; page could not be fetched, so work mode, open status and posting date are unverified.",
     "issue_number": 53
-  },
-  {
-    "title": "Technical CDP Solution Architect",
-    "company": "SMG Swiss Marketplace Group",
-    "location": "Zurich area, Switzerland",
-    "work_mode": "hybrid",
-    "url": "https://jobijoba.ch/detailanzeige/93/6681557b09d88688e164d2d712765dcd",
-    "source": "Web",
-    "date_found": "2026-11-08",
-    "fit_note": "Newly created CDP architect role shaping and implementing CDP solutions in the Zurich area; architecture plus hands-on. Caveat: platform appears to be Bloomreach rather than Adobe; page could not be fetched, so open status, posting date and hybrid terms are unverified.",
-    "issue_number": 51
-  },
-  {
-    "title": "Lead MarTech Product Strategist, CJA",
-    "company": "Adswerve",
-    "location": "Remote (US-listed; eligibility from Switzerland unverified)",
-    "work_mode": "remote",
-    "url": "https://job-boards.greenhouse.io/adswerveinc/jobs/5180567007",
-    "source": "Web",
-    "date_found": "2026-11-08",
-    "fit_note": "Lead strategist on enterprise Adobe projects (CJA, AEP, AJO) still needing hands-on CJA/XDM/identity work; matches strategic-but-technical goal. Caveat: US-oriented; posting date varies across boards and page could not be fetched, so open status is unverified.",
-    "issue_number": 52
   }
 ]
