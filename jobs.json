@@ -1,5 +1,38 @@
 [
   {
+    "title": "Adobe Experience Platform Architect (AEP)",
+    "company": "Merkle Schweiz (dentsu)",
+    "location": "Switzerland (Merkle CH offices: Zurich, Geneva, Lausanne, St. Gallen; exact office unverified)",
+    "work_mode": "hybrid",
+    "url": "https://findroles.com/jobs/2784200162-adobe-experience-platform-architect-aep",
+    "source": "Web",
+    "date_found": "2026-11-25",
+    "fit_note": "Swiss-listed AEP architect at a large Adobe partner, designing end-to-end solutions across RT-CDP, AJO and CJA including batch/streaming ingestion and privacy/security practices (5+ yrs hands-on AEP, 5+ yrs consulting); architecture plus hands-on, close to his stack. Caveat: client-facing consulting; office, work mode, seniority, posting date and open status unverified (page could not be fetched; a Built In copy exists at builtin.com/job/adobe-experience-platform-architect/7135272).",
+    "issue_number": 85
+  },
+  {
+    "title": "Adobe Multi-Solution Architect (EMEA listing)",
+    "company": "Cognizant",
+    "location": "Remote (listed on Cognizant's EMEA/DACH careers site; exact country eligibility unverified)",
+    "work_mode": "remote",
+    "url": "https://careers.cognizant.com/emea-de/arbeitsplaetze/00070802224/adobe-multi-solution-architect/",
+    "source": "Web",
+    "date_found": "2026-11-25",
+    "fit_note": "Owns enterprise AEP architecture (data governance, audience design) and integration patterns across AJO, CJA, Adobe Analytics, AEM and Target, with hands-on depth in 3+ products; a strong architect-plus-builder match. Caveat: sister of the North America listing already tracked (different job ID 00070802224); also includes platform stability/operations duties; US version requires US work authorization, so Swiss eligibility, posting date and open status are unverified.",
+    "issue_number": 86
+  },
+  {
+    "title": "Technical Lead – Adobe Data Full Stack",
+    "company": "Valtech",
+    "location": "Remote, United Kingdom (eligibility from Switzerland unverified)",
+    "work_mode": "remote",
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4689299101",
+    "source": "Web",
+    "date_found": "2026-11-25",
+    "fit_note": "Senior technical lead on Adobe Experience Platform and related tools at a major Adobe agency, using JavaScript, SQL and Python (Target, LLM Optimizer or Agent Orchestrator a plus); lead role with a strong hands-on component that matches his skill set. Caveat: UK-remote (likely needs UK right to work, occasional on-site), leans more technical lead than architect/strategist; posting date and open status unverified.",
+    "issue_number": 87
+  },
+  {
     "title": "AEP Enterprise Architect (EMEA)",
     "company": "Blue Acorn iCi",
     "location": "Remote, United Kingdom (London-based team; eligibility from Switzerland unverified)",
@@ -339,16 +372,5 @@
     "date_found": "2026-11-11",
     "fit_note": "Lead-level Adobe Journey Optimizer architect role (AJO certification preferred), matching his Campaign-to-AJO migration work; separate from the AJO Platform Architect posting already listed. Caveat: US-oriented, listings disagree on full-time vs contract; posted around Sep 18, 2026, page could not be fetched, so open status is unverified.",
     "issue_number": 56
-  },
-  {
-    "title": "Senior Adobe Data Platform Solution Engineer",
-    "company": "Undisclosed consultancy (via JobScout24)",
-    "location": "Zurich, Switzerland",
-    "work_mode": "hybrid",
-    "url": "https://jobscout24.ch/de/job/senior-adobe-data-platform-solution-engineer/115952292",
-    "source": "Web",
-    "date_found": "2026-11-10",
-    "fit_note": "Zurich role writing AEP blueprints and leading a CJA/AJO proof of concept; architecture plus hands-on. Caveat: 6-month contract (extension possible), 'engineer' title; page could not be fetched, so work mode, open status and posting date are unverified.",
-    "issue_number": 53
   }
 ]
